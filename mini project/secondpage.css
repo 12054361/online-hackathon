@@ -1,0 +1,187 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+.mySlides {
+    display: none;
+}
+
+img {
+    vertical-align: middle;
+    height: 650px;
+
+}
+
+/* Slideshow container */
+.slideshow-container {
+    position: relative;
+    top: 13.5%;
+    left: 0%;
+    height: 40px;
+
+    filter: brightness(80%);
+
+
+    /*
+          max-width: 1500px;
+          position: relative;
+          margin: auto;*/
+}
+
+.dot {
+
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+
+}
+
+.button1 {
+    background-color: #04AA6D;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: rgb(0, 0, 136);
+    color: rgb(255, 255, 255);
+    border: 2px solid #ffffff;
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
+
+.button1:hover {
+    background-color: #3337a8;
+    color: #c4b9b9;
+}
+
+.bigword {
+    font-size: 30px;
+}
+
+.dotu {
+    padding-top: 25%;
+}
+
+.active {
+    background-color: #a7a5a5;
+}
+
+/* Fading animation */
+.fade {
+    animation-name: fade;
+    animation-duration: 0.5s;
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+    .text {
+        font-size: 11px
+    }
+}
+
+.textu {
+    padding-bottom: 40%;
+    color: #ffffff;
+    font-size: 28px;
+    position: absolute;
+    top: 170px;
+    left: 270px;
+}
+
+.small {
+    font-size: 18px;
+    position: relative;
+    bottom: 18px;
+    left: 150px;
+}
+
+
+nav {
+    background: rgb(0, 0, 0);
+    color: rgb(235, 235, 235);
+
+
+
+}
+
+li,
+ul,
+h1 {
+    display: inline-block;
+
+}
+
+li:hover {
+    border-radius: 25px;
+
+    background-color: #555555;
+
+}
+
+ul {
+    margin-left: 60%;
+}
+
+.hi {
+    position: relative;
+    padding-right: 300px;
+    font-size: 50px;
+    font-family: Garamond, serif;
+    text-shadow: 2px 2px 8px #000000;
+
+}
+
+.ho {
+
+    font-size: 22px;
+    cursor: pointer;
+    padding: 10px;
+
+
+}
+
+.lit {
+    position: relative;
+    padding-left: 250px;
+
+
+}
+
+.bo::-webkit-scrollbar {
+    display: none;
+
+}

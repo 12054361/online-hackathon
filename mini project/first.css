@@ -1,0 +1,129 @@
+<center><div class="contacts"><h1 class="po">CONTACTS</h1><h2>6379335935 </h2><h3>yoghes@gamil.com </h3><p class="bo">Show your data science mettle by competing in various machine learning hackathons and stand a chance to win prizes, improve your current skills, and even win job opportunities with top companies. You can also RSVP to exclusive data science events by Analytics Vidhya where you can have a face to face interaction with leaders in the data science and machine learning community.</p></div></center><center><div class="contacts"><h1 class="po">CONTACTS</h1><h2>6379335935 </h2><h3>yoghes@gamil.com </h3><p class="bo">Show your data science mettle by competing in various machine learning hackathons and stand a chance to win prizes, improve your current skills, and even win job opportunities with top companies. You can also RSVP to exclusive data science events by Analytics Vidhya where you can have a face to face interaction with leaders in the data science and machine learning community.</p></div></center>< !DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Document</title></head><body><div><div class="container3"><div class="campus-col"><img src="images (1).jpeg" alt="Placeholder image" class="image"><div class="layer"><h3>INTERNAL HACKATHON </h3></div></div><div class="text-container"><h2>INTERNAL HACKATHON</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum auctor nunc, non aliquet nibh finibus eu. Nam at nisi at nisi interdum laoreet. In vitae luctus neque.</p><a href="" class="Hero-btr">Enter </a></div><style>body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    font-size: 30px;
+
+    text-align: center;
+    color: #7e7c7c;
+    overflow-x: hidden;
+    margin-bottom: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.campus-col {
+
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+}
+
+.layer {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+}
+
+.layer:hover {
+    background: rgba(4, 9, 30, 0.7);
+    ;
+    cursor: pointer;
+
+}
+
+.layer h3 {
+    width: 100%;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 40px;
+    bottom: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    opacity: 0;
+    transition: 0.5;
+}
+
+.layer:hover h3 {
+    bottom: 49%;
+    opacity: 1;
+}
+
+
+.container3 {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+
+
+    background-color: rgb(220 232 240);
+
+
+
+}
+
+@media(max-width:700px) {
+    .container3 {
+        flex-direction: column;
+    }
+}
+
+.image {
+    max-width: 650px;
+    height: 500px;
+    border: 10px solid color(srgb red green blue);
+
+}
+
+.image:hover {
+    border: 5px solid #d5d5d5;
+    ;
+    background: #828282;
+    ;
+    transition: 1ms;
+    cursor: pointer;
+}
+
+.text-container {
+    flex: 1;
+}
+
+.text-container h2 {
+    margin-top: 0;
+    color: rgb(106, 106, 106);
+    padding-left: 20px;
+}
+
+.Hero-btr {
+    display: inline-block;
+    text-decoration: none;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 12px 34px;
+    border-radius: 15px;
+    font-size: 20px;
+    background: #9f9f9f;
+    position: relative;
+    cursor: pointer;
+
+
+}
+
+.Hero-btr:hover {
+    border: 1px solid #d5d5d5;
+    ;
+    background: #f44336;
+    ;
+    transition: 1s;
+}
+
+
+</style></body></html><div class="buttu"><button onclick="goToPage()" class="buttonsingle">REGISTER NOW</button><script>function goToPage() {
+    window.location.href="index.html";
+}
+
+</script>

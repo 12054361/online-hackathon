@@ -1,0 +1,397 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  height: 500px;
+
+  background-image: url(wp10006762-hackathon-wallpapers.jpg);
+  color: rgb(255, 253, 253);
+  padding-left: 92px;
+
+
+
+}
+
+a {
+  color: black;
+}
+
+.navbar {
+  font-size: 25px;
+  padding-left: 500px;
+  padding-top: 10px;
+}
+
+li,
+ul {
+  display: inline-block;
+  cursor: pointer;
+
+
+
+}
+
+ul {
+  padding-left: 60%;
+
+}
+
+.name {
+  font-size: 30px;
+
+}
+
+li:hover {
+  border-radius: 20px;
+
+  background-color: #910A67;
+
+}
+
+.ptag {
+  position: relative;
+  right: 510px;
+
+  font-size: 30px;
+}
+
+.next {
+
+  padding-top: 35px;
+
+
+
+}
+
+.buttu {
+  position: relative;
+  right: 500px;
+}
+
+
+.but {
+  position: relative;
+  left: 300px;
+  bottom: 60px;
+}
+
+.h10 {
+  position: relative;
+  right: 500px;
+  font-size: 40px;
+  text-shadow: 2px 2px 8px rgb(220, 202, 202);
+  cursor: pointer;
+
+}
+
+
+
+.buttonbutton1:hover {
+  border-radius: 20px;
+  background-color: #910A67
+}
+
+.buttonbutton2:hover {
+  border-radius: 20px;
+  background-color: #910A67
+}
+
+.buttonbutton3:hover {
+  border-radius: 20px;
+  background-color: #910A67
+}
+
+.buttonbutton4:hover {
+
+  border-radius: 20px;
+  background-color: #910A67
+}
+
+
+
+.buttonbutton1 {
+  background-color: transparent;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+
+}
+
+
+.buttonbutton2 {
+  background-color: transparent;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.buttonbutton3 {
+  background-color: transparent;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+
+}
+
+.buttonbutton4 {
+  background-color: transparent;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+
+.my {
+  position: relative;
+  right: 500px;
+  bottom: 20px;
+  font-size: 20px;
+}
+
+.moveleft {
+  position: relative;
+  left: 16px;
+
+}
+
+.moveleft2 {
+  position: relative;
+  right: 133px;
+
+}
+
+.cirimg {
+
+  height: 40%;
+  width: 40%;
+  border-radius: 50%;
+}
+
+.imge {
+  padding-left: 50%;
+}
+
+.buttonsingle {
+  background-color: transparent;
+  border-radius: 20px;
+  color: #d7d6d1;
+
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+
+.buttonsingle:hover {
+  border-radius: 20px;
+  border: solid;
+  border-style: solid;
+  border-color: #ffffff;
+
+  background-color: #910A67
+}
+
+.buttonsingle {
+  background-color: transparent;
+  color: rgb(255, 255, 255);
+  border: solid;
+  border-width: 0px;
+  border-color: transparent;
+
+
+}
+
+
+.stages {
+  position: relative;
+  background-color: #ede9e9;
+  padding-right: 950px;
+}
+
+.red {
+  position: relative;
+
+  font-size: 30px;
+  padding: 20px;
+
+
+
+  color: #c0baba;
+
+
+
+}
+
+
+
+.final {
+  background-color: #ffffff;
+}
+
+.p1 {
+  font-size: 33px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(2, 2, 149);
+  padding-top: 60px;
+
+}
+
+.p2 {
+  font-size: 33px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(2, 2, 149);
+
+
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+
+  margin: 20px;
+  justify-content: space-around;
+}
+
+.cont {
+  width: 300px;
+  padding-top: 5%;
+  cursor: pointer;
+
+
+}
+
+.cont:hover {
+  border-radius: 20px;
+
+
+  background-color: transparent;
+}
+
+
+.si {
+  font-size: 30px;
+}
+
+.so {
+  font-size: 20px;
+}
+
+.conta {
+  width: 300px;
+  padding-top: 5%;
+  cursor: pointer;
+
+
+}
+
+.conta:hover {
+  border-radius: 20px;
+
+
+  background-color: transparent;
+}
+
+
+.sing {
+  font-size: 30px;
+}
+
+.so1 {
+  font-size: 20px;
+}
+
+.contai {
+  width: 300px;
+  padding-top: 5%;
+  cursor: pointer;
+
+
+}
+
+.contai:hover {
+  border-radius: 20px;
+
+
+  background-color: transparent;
+}
+
+.singl {
+  font-size: 30px;
+}
+
+.so2 {
+  font-size: 20px;
+}
+
+.contain {
+  width: 300px;
+  padding-top: 5%;
+  cursor: pointer;
+
+
+}
+
+.contain:hover {
+  border-radius: 20px;
+
+
+  background-color: transparent;
+}
+
+.singlu {
+  font-size: 30px;
+}
+
+.so3 {
+  font-size: 20px;
+}
+
+.contacts {
+  margin: 0%;
+  padding: 0%;
+
+  background-color: black;
+  color: #c0baba;
+
+}
+
+.po {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bo {
+  font-size: 20px;
+}
